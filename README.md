@@ -21,15 +21,5 @@ Vous pouvez laisser des commentaires visuels sur les artefacts visuels, ce qui f
 Les agents accordent la priorité à la vérification des informations et à l'interaction avec les utilisateurs par le biais d'artefacts et de tâches afin d'instaurer la confiance dans leur code.
 ### Transfert entre le gestionnaire et l'éditeur
 Passez en toute transparence d'agents parallèles entre les espaces de travail dans la vue Gestionnaire d'agents à une expérience d'édition synchrone.
-## Les pour 
-
--------------------------------
-
-**Productivité Révolutionnaire** : L'agent gère le cycle complet de développement (planification, codage, débogage, vérification) de manière autonome, transformant le développeur en superviseur et accélérant massivement la livraison des fonctionnalités.
-
-**Développement de Haut Niveau** : Permet aux développeurs de se concentrer sur l'architecture et les objectifs commerciaux (le _quoi_), plutôt que sur les détails d'implémentation du code (le _comment_), maximisant ainsi leur valeur ajoutée.
-
-**Synchronisation "Cross-Surface"** : L'IA agit comme un développeur humain coordonnant l'éditeur, le terminal et le navigateur, permettant des tests et des corrections automatisés en temps réel qui étaient auparavant impossibles pour les outils d'assistance au code.
-
-**Démocratisation du Développement** : Pourrait permettre à des personnes ayant moins d'expérience technique de prototyper ou d'ajouter des fonctionnalités complexes plus facilement, en décrivant simplement leur intention.
-**Maintenance et Réfactoring** : L'agent est théoriquement capable de gérer de grandes tâches de maintenance et de refactorisation (réorganisation du code) sur des bases de code massives et complexes de manière plus cohérente et rapide.
+## Avantages
+### Gratuit pour l'instant pour les utilisateurs de google
